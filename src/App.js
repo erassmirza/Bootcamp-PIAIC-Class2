@@ -18,6 +18,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          Edit after created react app.
+        </p>
       </header>
     </div>
   );
