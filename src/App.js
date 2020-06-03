@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>*/}
         <p> 
-          My first react app deploy successful.<br></br>
+          My first react app deploy successful and start learning react<br></br>
           (Edit after created react app)
         </p>
       </header>
